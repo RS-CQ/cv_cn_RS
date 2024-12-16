@@ -4,14 +4,20 @@
 - 籍贯：重庆
 - 出生年月日：1995年7月21日
 - 邮件：[runbo.su@inria.fr](mailto:runbo.su@inria.fr) 
-- 当前情况：
-<br /> 博士后 @ Team [Resist](https://team.inria.fr/resist/) (_2024年9月至今_)
+- 当前博士后在读 @ [Resist](https://team.inria.fr/resist/)组 (_2024年9月至今_)
 <br /> 法国[Inria计算机及自动化研究所](https://www.inria.fr/fr/centre-inria-universite-lorraine)，[Loria计算机研究所](https://www.loria.fr/fr/), [洛林大学](https://www.univ-lorraine.fr/)
-<br /> _智能交通的5G应用及性能评估 [Urbanloop](https://urbanloop.fr/)_ 
+
+
+## 主要研究方向
+我的研究方向主要研究方向是网络物理系统（CPS）的性能及可靠性研究。目前，集中在两个子方向：
+- 面向服务的物联网中基于信任的数学建模及性能评估。
+- 4G/5G车联网及智能交通中服务质量（QoS）相关的性能评估和可靠性研究。
+
 
 ## 教育背景
 - 计算机博士, _2024年7月_, Loria 计算机研究所，[IECL数学研究所](https://iecl.univ-lorraine.fr/), [洛林大学](https://www.univ-lorraine.fr/)
-<br />博士课题：面向服务的物联网中的信任管理， [博士论文](https://docnum.univ-lorraine.fr/public/DDOC_T_2024_0054_SU.pdf); 导师: [Enrico Natalizio 教授](https://www.tii.ae/team/prof-enrico-natalizio) and [Pascal Moyal 教授](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/) 
+<br /> 导师: [Enrico Natalizio 教授](https://www.tii.ae/team/prof-enrico-natalizio) and [Pascal Moyal 教授](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/)
+<br />[博士课题](https://docnum.univ-lorraine.fr/public/DDOC_T_2024_0054_SU.pdf)：面向服务的物联网中的信任管理 
 
 - 工程师学位, _2020年6月_, [法国ENSEM工程师学院](https://ensem.univ-lorraine.fr/), 法国洛林大学 
 <br /> 数字化系统，硕士课题：SDN网络中的QoS：延迟管理，导师 [Ye-Qiong Song 教授](https://members.loria.fr/YQSong/)     		
@@ -19,16 +25,11 @@
 - 硕士, _2020年6月_, 法国洛林大学 	
 <br /> 信息与系统安全，工程师学位双文凭
 
-## 主要研究方向
-我的研究方向主要研究方向是网络物理系统（CPS）的性能及可靠性研究。目前，集中在两个子方向：
-- 面向服务的物联网中基于信任的数学建模及性能评估。
-- 4G/5G车联网及智能交通中服务质量（QoS）相关的性能评估和可靠性研究。
- 			        		
 
 <!-- - Intern. @ Team Simbiot (_Mar. 2020 - Sept. 2020_))
 (-<br />  Loria, University of Lorraine) 
 (-<br /> _QoS management in SDN (Software Defined Networking): Delay focused study_) -->
-## 参与项目
+## 项目参与
 - [COMMITS](https://commits.loria.fr/) (法国ANR项目_**CO**nverged co**MM**unication, control and scheduling **I**nfrastructure for multi pods-based **T**ransport **S**ystems_)
 <br /> 该项目旨在开发融合通信、控制和调度的基础设施，以构建一个网络物理系统，用于大规模管理智能交通网络。.(_Sept. 2024 - Present_)
 
