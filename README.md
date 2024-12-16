@@ -28,7 +28,12 @@
 <!-- - Intern. @ Team Simbiot (_Mar. 2020 - Sept. 2020_))
 (-<br />  Loria, University of Lorraine) 
 (-<br /> _QoS management in SDN (Software Defined Networking): Delay focused study_) -->
+## 参与项目
+- [COMMITS](https://commits.loria.fr/) (法国ANR项目_**CO**nverged co**MM**unication, control and scheduling **I**nfrastructure for multi pods-based **T**ransport **S**ystems_)
+<br /> 该项目旨在开发融合通信、控制和调度的基础设施，以构建一个网络物理系统，用于大规模管理智能交通网络。.(_Sept. 2024 - Present_)
 
+- [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019) (法国ANR项目：_**M**atching **A**rchitectures **T**hat **C**onnect heterogeneous users and **H**ealthcare **E**fficient **S**ystems_)
+<br /> 该项目旨在分析这种随机匹配模型的主要数学特性，并开发优化其行为的工具。 (_2020年10月-2024年6月_)
 
 ## 近四年论文发表情况
 
@@ -50,30 +55,41 @@
 6. **Su, Runbo**, et al. "_PDTM: Phase-based dynamic trust management for Internet of things._" In 2021 IEEE ICCCN (pp. 1-7). IEEE. [DOI](https://doi.org/10.1109/ICCCN52240.2021.9522234), [pdf](https://hal.science/hal-03322831v1/file/Su-PDTM.pdf), [video](https://www.youtube.com/playlist?list=PLzIU1iYy4sJjPSz7HjvMLYme7z4D1E4KW)
 7. **Su, Runbo**, Arbia Riahi Sfar, and Pascal Moyal. "_Game theoretical analysis of strategy changes and influence factors in Crowdsourcing IoT systems._" In 2024 IEEE DCOSS-IoT. [DOI](https://doi.org/10.1109/DCOSS-IoT61029.2024.00048), [pdf](https://hal.science/hal-04564953/document)
 
+## 期刊及会议审稿工作
+- Elsevier Computer Networks Journal，Q1(JCR), SCI，  _2022年至今_
+- Elsevier Internet of Things Journal，Q1(JCR), SCI， _2024年至今_
+- 2025 ICCCN， TPC member
 
-## 参与项目
-- [COMMITS](https://commits.loria.fr/) (法国ANR项目_**CO**nverged co**MM**unication, control and scheduling **I**nfrastructure for multi pods-based **T**ransport **S**ystems_)
-<br /> 该项目旨在开发融合通信、控制和调度的基础设施，以构建一个网络物理系统，用于大规模管理智能交通网络。.(_Sept. 2024 - Present_)
-
-- [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019) (法国ANR项目：_**M**atching **A**rchitectures **T**hat **C**onnect heterogeneous users and **H**ealthcare **E**fficient **S**ystems_)
-<br /> 该项目旨在分析这种随机匹配模型的主要数学特性，并开发优化其行为的工具。 (_2020年10月-2024年6月_)
 
 
 ## 教学经验
 
 - 自21年9月起开始在法国ENSEM工程师学院参与教学工作：
-- 
+-  
 - 2021-2022年:
 <br /> 1). 算法与编程 (Python); <br /> 2). 算法与面向对象的变成 (Python+Java)
 
-- 2022-2023年: <br /> 1-2) 同2021-2022年课程; <br /> 4). 无线感测网络 (General IoT, MQTT, NodeRed, XBEE, LoRa, 等等)
+- 2022-2023年: <br /> 1-2) 同2021-2022年课程; <br /> 3). 无线感测网络 (General IoT, MQTT, NodeRed, XBEE, LoRa, 等等)
 
-- 2023-2024年: <br /> 1-4) 同2021-2022年 及 2022-2023年课程; <br /> 5). 数据库 (SQL + MongoDB)      <br /> 6). 算法及数据结构 (Java); <br /> 7). 微控制器的数字集成 (IoT + Arduino); <br /> 8). 工业系统的实施和网络安全 (LADDER language on OpenPLC, IHM on ScadaBR, firewall + attack test); <br /> 9). 分布式系统 (Task distribution, mutual exclusion); <br /> 10). IoT implementation (by using Pycom cards, NodeRed, and MySQL); <br /> 11). C 语言编程 (C-based Game + TCP/IP); <br /> 12). Twizzy 项目 (基于Twizzy 汽车实时路标识别);
+- 2023-2024年: <br /> 1-3) 同2021-2022年 及 2022-2023年课程; <br /> 4). 数据库 (SQL + MongoDB)      <br /> 5). 算法及数据结构 (Java); <br /> 6). 微控制器的数字集成 (IoT + Arduino); <br /> 7). 工业系统的实施和网络安全 (LADDER language on OpenPLC, IHM on ScadaBR, firewall + attack test); <br /> 8). 分布式系统 (Task distribution, mutual exclusion); <br /> 9). IoT implementation (by using Pycom cards, NodeRed, and MySQL); <br /> 10). C 语言编程 (C-based Game + TCP/IP); <br /> 11). Twizzy 项目 (基于Twizzy 汽车实时路标识别);
 
-## 审稿工作
-- Elsevier Computer Networks Journal，Q1(JCR), SCI，  _2022年至今_
-- Elsevier Internet of Things Journal，Q1(JCR), SCI， _2024年至今_
-- 2025 ICCCN， TPC member
+- 2024-2024年: <br /> 同2023-2024年
+
+## 硕士指导经验
+- Justinien Hennechart，ENSEM 工程师学院学生，2021年10月-2022年2月，和 Ye-Qiong Song 教授共同负责指导
+课题: 车联网信任管理的仿真和实验（Simulation and Experimentation of Trust Management in VANET）
+
+- Fadwa Mouhdi， 洛林大学数学系硕士生，2022年1月-2022年4月，和 Pascal Moyal 教授共同负责指导
+课题: 物联网信任管理的博弈论建模（Modelling the trust in IoT by applying Game Theory）
+
+- Yujun Jin， ENSEM工程师学院学生，Loria计算机研究所实习生，2021年3月-2023年6月，和 Ye-Qiong Song 教授共同负责指导
+课题: 车辆网行人管理的仿真及相关V2X通信的应用 （Simulation of trust management in VANET (Vehicular Ad-hoc NETwork) by using
+V2X (Vehicle-to-Everything) messages）
+
+- Florian Richanrd， ENSEM工程师学院学生，Loria计算机研究所实习生，2023年10月-2024年2月，和 Ye-Qiong Song 教授共同负责指导
+课题: 基于Python的“幽灵车”仿真 （Study of the impact of the ”Ghost Vehicle” attack on a vehicular network simulator）
+
+
 
 ## 联系方式
 - [Email@lab](mailto:runbo.su@inria.fr) 
