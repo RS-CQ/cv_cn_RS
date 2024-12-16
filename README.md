@@ -3,7 +3,7 @@
 - 性别：男
 - 籍贯：重庆
 - 出生年月日：1995年7月21日
-- 邮件：[Email@lab](mailto:runbo.su@inria.fr) 
+- 邮件：[runbo.su@inria.fr](mailto:runbo.su@inria.fr) 
 - 当前情况：
 <br /> 博士后 @ Team [Resist](https://team.inria.fr/resist/) (_2024年9月至今_)
 <br /> 法国[Inria国家计算机及自动化研究所](https://www.inria.fr/fr/centre-inria-universite-lorraine)，[Loria计算机研究所](https://www.loria.fr/fr/), [洛林大学](https://www.univ-lorraine.fr/)
