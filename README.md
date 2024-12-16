@@ -1,5 +1,5 @@
 ## 基本信息
-- 姓名：苏润博         [](/images/RunboPhoto.png)
+- 姓名：苏润博         [](/image/RunboPhoto.png)
 - 性别：男
 - 籍贯：重庆
 - 出生年月日：1995年7月21日
@@ -81,8 +81,8 @@
 ## 联系方式
 - [Email@lab](mailto:runbo.su@inria.fr) 
 - [Email@univ](mailto:runbo.su@univ-lorraine.fr) 
-- [![](/images/orcid_resized2.png)](https://orcid.org/0000-0001-5116-8207)
-- [![](/images/linkedin_reresized4.jpg)](https://www.linkedin.com/in/runbo-su-ab32a3151/)
+- [![](/image/orcid_resized2.png)](https://orcid.org/0000-0001-5116-8207)
+- [![](/image/linkedin_reresized4.jpg)](https://www.linkedin.com/in/runbo-su-ab32a3151/)
 
 
 
