@@ -1,5 +1,5 @@
 ## 基本信息
-- 姓名：苏润博         ![](/image/RunboPhoto.png)
+- 姓名：苏润博         <img src="/image/RunboPhoto.png" width=50% height=50%>
 - 性别：男
 - 籍贯：重庆
 - 出生年月日：1995年7月21日
