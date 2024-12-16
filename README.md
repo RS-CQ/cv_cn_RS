@@ -5,7 +5,7 @@
 - 出生年月日：1995年7月21日
 - 邮件：[runbo.su@inria.fr](mailto:runbo.su@inria.fr) 
 - 当前博士后在读 @ [Resist](https://team.inria.fr/resist/)组 (_2024年9月至今_)
-<br /> 法国[Inria计算机及自动化研究所](https://www.inria.fr/fr/centre-inria-universite-lorraine)，[Loria计算机研究所](https://www.loria.fr/fr/), [洛林大学](https://www.univ-lorraine.fr/)
+<br /> 法国 [Inria计算机及自动化研究所](https://www.inria.fr/fr/centre-inria-universite-lorraine)，[Loria计算机研究所](https://www.loria.fr/fr/), [洛林大学](https://www.univ-lorraine.fr/)
 
 
 ## 主要研究方向
