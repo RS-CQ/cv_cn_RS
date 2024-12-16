@@ -20,7 +20,7 @@
 <br />[博士课题](https://docnum.univ-lorraine.fr/public/DDOC_T_2024_0054_SU.pdf)：面向服务的物联网中的信任管理 
 
 - 工程师学位, _2020年6月_, [法国ENSEM工程师学院](https://ensem.univ-lorraine.fr/), 法国洛林大学 
-<br /> 数字化系统，	
+<br /> 数字化系统	
 
 - 硕士, _2020年6月_, 法国洛林大学 	
 <br /> 信息与系统安全，工程师学位双文凭
