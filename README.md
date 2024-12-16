@@ -13,10 +13,10 @@
 - 计算机博士, _2024年7月_, Loria 计算机研究所，[IECL数学研究所](https://iecl.univ-lorraine.fr/), [洛林大学](https://www.univ-lorraine.fr/)
 <br />博士课题：面向服务的物联网中的信任管理， [博士论文](https://docnum.univ-lorraine.fr/public/DDOC_T_2024_0054_SU.pdf); 导师: [Enrico Natalizio 教授](https://www.tii.ae/team/prof-enrico-natalizio) and [Pascal Moyal 教授](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/) 
 
-- 工程师文凭, _2020年6月_, [法国ENSEM工程师学院](https://ensem.univ-lorraine.fr/), 法国洛林大学 
+- 工程师学位, _2020年6月_, [法国ENSEM工程师学院](https://ensem.univ-lorraine.fr/), 法国洛林大学 
 <br /> 数字化系统，硕士课题：SDN网络中的QoS：延迟管理，导师 [Ye-Qiong Song 教授](https://members.loria.fr/YQSong/)     		
 
-- 硕士文凭, _2020年6月_, 法国洛林大学 	
+- 硕士, _2020年6月_, 法国洛林大学 	
 <br /> 信息与系统安全，工程师学位双文凭
 
 ## 主要研究方向
