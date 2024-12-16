@@ -6,7 +6,7 @@
 - 邮件：[runbo.su@inria.fr](mailto:runbo.su@inria.fr) 
 - 当前情况：
 <br /> 博士后 @ Team [Resist](https://team.inria.fr/resist/) (_2024年9月至今_)
-<br /> 法国[Inria国家计算机及自动化研究所](https://www.inria.fr/fr/centre-inria-universite-lorraine)，[Loria计算机研究所](https://www.loria.fr/fr/), [洛林大学](https://www.univ-lorraine.fr/)
+<br /> 法国[Inria计算机及自动化研究所](https://www.inria.fr/fr/centre-inria-universite-lorraine)，[Loria计算机研究所](https://www.loria.fr/fr/), [洛林大学](https://www.univ-lorraine.fr/)
 <br /> _智能交通的5G应用及性能评估 [Urbanloop](https://urbanloop.fr/)_ 
 
 ## 教育背景
