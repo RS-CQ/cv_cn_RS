@@ -20,7 +20,7 @@
 <br />[博士课题](https://docnum.univ-lorraine.fr/public/DDOC_T_2024_0054_SU.pdf)：面向服务的物联网中的信任管理 
 
 - 工程师学位, _2020年6月_, [法国ENSEM工程师学院](https://ensem.univ-lorraine.fr/), 法国洛林大学 
-<br /> 数字化系统，硕士课题：SDN网络中的QoS：延迟管理，导师 [Ye-Qiong Song 教授](https://members.loria.fr/YQSong/)     		
+<br /> 数字化系统，	
 
 - 硕士, _2020年6月_, 法国洛林大学 	
 <br /> 信息与系统安全，工程师学位双文凭
@@ -78,7 +78,7 @@
 
 ## 硕士指导经验
 - Justinien Hennechart，ENSEM 工程师学院学生，
-<br />2021年10月-2022年2月，和 Ye-Qiong Song 教授共同负责指导
+<br />2021年10月-2022年2月，和 [Ye-Qiong Song 教授](https://members.loria.fr/YQSong/) 共同负责指导
 <br />课题: 车联网信任管理的仿真和实验，[论文](/report/report_1.pdf)（Simulation and Experimentation of Trust Management in VANET）
 
 - Fadwa Mouhdi， 洛林大学数学系硕士生，<br />2022年1月-2022年4月，和 Pascal Moyal 教授共同负责指导
