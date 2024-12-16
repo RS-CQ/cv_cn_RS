@@ -19,10 +19,10 @@
 - 硕士文凭, _2020年6月_, 法国洛林大学 	
 <br /> 信息与系统安全，工程师学位双文凭
 
-## 研究方向及兴趣
-我的研究方向主要在网络物理系统（CPS）的可信性和可靠性。目前，我的研究主要集中在：
+## 主要研究方向
+我的研究方向主要研究方向是网络物理系统（CPS）的性能及可靠性研究。目前，集中在两个子方向：
 - 面向服务的物联网中基于信任的数学建模及性能评估。
-- 5G车联网及智能交通中以服务质量（QoS）为重点的性能评估和可靠性研究。
+- 4G/5G车联网及智能交通中服务质量（QoS）相关的性能评估和可靠性研究。
  			        		
 
 <!-- - Intern. @ Team Simbiot (_Mar. 2020 - Sept. 2020_))
@@ -89,6 +89,8 @@ V2X (Vehicle-to-Everything) messages)
 
 - Florian Richanrd， ENSEM工程师学院学生，Loria计算机研究所实习生，2023年10月-2024年2月，和 Ye-Qiong Song 教授共同负责指导
 课题: 基于Python的“幽灵车”攻击及其影响的仿真，[论文](/report/report_4.pdf)（Study of the impact of the ”Ghost Vehicle” attack on a vehicular network simulator）
+
+
 
 
 
