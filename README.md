@@ -7,13 +7,6 @@
 - 当前博士后在读 @ [Resist](https://team.inria.fr/resist/)组 (_2024年9月至今_)
 <br /> 法国 [Inria计算机及自动化研究所](https://www.inria.fr/fr/centre-inria-universite-lorraine)，[Loria计算机研究所](https://www.loria.fr/fr/), [洛林大学](https://www.univ-lorraine.fr/)
 
-
-## 主要研究方向
-我的研究方向主要研究方向是网络物理系统（CPS）的性能及可靠性研究。目前，集中在两个子方向：
-- 面向服务的物联网中基于信任的数学建模及性能评估。
-- 4G/5G车联网及智能交通中服务质量（QoS）相关的性能评估和可靠性研究。
-
-
 ## 教育背景
 - 计算机博士, _2024年7月_, Loria 计算机研究所，[IECL数学研究所](https://iecl.univ-lorraine.fr/), [洛林大学](https://www.univ-lorraine.fr/)
 <br /> 导师: [Enrico Natalizio 教授](https://www.tii.ae/team/prof-enrico-natalizio) and [Pascal Moyal 教授](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/)
@@ -25,18 +18,12 @@
 - 硕士, _2020年6月_, 法国洛林大学 	
 <br /> 信息与系统安全，工程师学位双文凭
 
+## 主要研究方向
+我的研究方向主要研究方向是网络物理系统（CPS）的性能及可靠性研究。目前，集中在两个子方向：
+- 面向服务的物联网中基于信任的数学建模及性能评估。
+- 4G/5G车联网及智能交通中服务质量（QoS）相关的性能评估和可靠性研究。
 
-<!-- - Intern. @ Team Simbiot (_Mar. 2020 - Sept. 2020_))
-(-<br />  Loria, University of Lorraine) 
-(-<br /> _QoS management in SDN (Software Defined Networking): Delay focused study_) -->
-## 项目参与
-- [COMMITS](https://commits.loria.fr/) (法国ANR项目_**CO**nverged co**MM**unication, control and scheduling **I**nfrastructure for multi pods-based **T**ransport **S**ystems_)
-<br /> 该项目旨在开发融合通信、控制和调度的基础设施，以构建一个网络物理系统，用于大规模管理智能交通网络。.(_2024年9月至今_)
-
-- [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019) (法国ANR项目：_**M**atching **A**rchitectures **T**hat **C**onnect heterogeneous users and **H**ealthcare **E**fficient **S**ystems_)
-<br /> 该项目旨在分析这种随机匹配模型的主要数学特性，并开发优化其行为的工具。 (_2020年10月-2024年6月_)
-
-## 近四年论文发表情况
+## 论文发表情况
 
 | 编号| 一作 | 刊/会等级  | 出版社 |
 | ------------- | ------------- | ------------- | ------------- |
@@ -55,6 +42,18 @@
 5. **Su, Runbo**, Yujun Jin, and Ye-Qiong Song. "_Assessing Trustworthiness of V2X Messages: A Cooperative Trust Model Against CAM-and CPM-Based Ghost Vehicles in IoV._" In 2024 VEHITS (pp. 276-283).[DOI](https://doi.org/10.5220/0012605200003702), [pdf](https://hal.science/hal-04453209v4/file/Vehist.pdf)
 6. **Su, Runbo**, et al. "_PDTM: Phase-based dynamic trust management for Internet of things._" In 2021 IEEE ICCCN (pp. 1-7). IEEE. [DOI](https://doi.org/10.1109/ICCCN52240.2021.9522234), [pdf](https://hal.science/hal-03322831v1/file/Su-PDTM.pdf), [video](https://www.youtube.com/playlist?list=PLzIU1iYy4sJjPSz7HjvMLYme7z4D1E4KW)
 7. **Su, Runbo**, Arbia Riahi Sfar, and Pascal Moyal. "_Game theoretical analysis of strategy changes and influence factors in Crowdsourcing IoT systems._" In 2024 IEEE DCOSS-IoT. [DOI](https://doi.org/10.1109/DCOSS-IoT61029.2024.00048), [pdf](https://hal.science/hal-04564953/document)
+
+<!-- - Intern. @ Team Simbiot (_Mar. 2020 - Sept. 2020_))
+(-<br />  Loria, University of Lorraine) 
+(-<br /> _QoS management in SDN (Software Defined Networking): Delay focused study_) -->
+## 项目参与
+- [COMMITS](https://commits.loria.fr/) (法国ANR项目_**CO**nverged co**MM**unication, control and scheduling **I**nfrastructure for multi pods-based **T**ransport **S**ystems_)
+<br /> 该项目旨在开发融合通信、控制和调度的基础设施，以构建一个网络物理系统，用于大规模管理智能交通网络。.(_2024年9月至今_)
+
+- [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019) (法国ANR项目：_**M**atching **A**rchitectures **T**hat **C**onnect heterogeneous users and **H**ealthcare **E**fficient **S**ystems_)
+<br /> 该项目旨在分析这种随机匹配模型的主要数学特性，并开发优化其行为的工具。 (_2020年10月-2024年6月_)
+
+
 
 ## 期刊及会议审稿工作
 - Elsevier Computer Networks Journal，Q1(JCR), SCI，  _2022年至今_
