@@ -76,18 +76,19 @@
 - 2024-2024年: <br /> 同2023-2024年
 
 ## 硕士指导经验
-- Justinien Hennechart，ENSEM 工程师学院学生，2021年10月-2022年2月，和 Ye-Qiong Song 教授共同负责指导
-课题: 车联网信任管理的仿真和实验（Simulation and Experimentation of Trust Management in VANET）
+- Justinien Hennechart，ENSEM 工程师学院学生，
+<br />2021年10月-2022年2月，和 Ye-Qiong Song 教授共同负责指导
+课题: 车联网信任管理的仿真和实验，[论文](/report/report_1)（Simulation and Experimentation of Trust Management in VANET）
 
-- Fadwa Mouhdi， 洛林大学数学系硕士生，2022年1月-2022年4月，和 Pascal Moyal 教授共同负责指导
-课题: 物联网信任管理的博弈论建模（Modelling the trust in IoT by applying Game Theory）
+- Fadwa Mouhdi， 洛林大学数学系硕士生，<br />2022年1月-2022年4月，和 Pascal Moyal 教授共同负责指导
+课题: 物联网信任管理的博弈论建模， [论文](/report/report_2)（Modelling the trust in IoT by applying Game Theory）
 
-- Yujun Jin， ENSEM工程师学院学生，Loria计算机研究所实习生，2021年3月-2023年6月，和 Ye-Qiong Song 教授共同负责指导
+- Yujun Jin， ENSEM工程师学院学生，Loria计算机研究所实习生，<br />2021年3月-2023年6月，和 Ye-Qiong Song 教授共同负责指导
 课题: 车辆网行人管理的仿真及相关V2X通信的应用 （Simulation of trust management in VANET (Vehicular Ad-hoc NETwork) by using
-V2X (Vehicle-to-Everything) messages）
+V2X (Vehicle-to-Everything) messages), [论文](/report/report_3)
 
 - Florian Richanrd， ENSEM工程师学院学生，Loria计算机研究所实习生，2023年10月-2024年2月，和 Ye-Qiong Song 教授共同负责指导
-课题: 基于Python的“幽灵车”仿真 （Study of the impact of the ”Ghost Vehicle” attack on a vehicular network simulator）
+课题: 基于Python的“幽灵车”攻击及其影响的仿真，[论文](/report/report_4)（Study of the impact of the ”Ghost Vehicle” attack on a vehicular network simulator）
 
 
 
