@@ -95,7 +95,7 @@
 
 - 2023-2024年: <br /> 1-3) 同2021-2022年 及 2022-2023年课程; <br /> 4). 数据库 (SQL + MongoDB)      <br /> 5). 算法及数据结构 (Java); <br /> 6). 微控制器的数字集成 (IoT + Arduino); <br /> 7). 工业系统的实施和网络安全 (LADDER language on OpenPLC, IHM on ScadaBR, firewall + attack test); <br /> 8). 分布式系统 (Task distribution, mutual exclusion); <br /> 9). IoT implementation (by using Pycom cards, NodeRed, and MySQL); <br /> 10). C 语言编程 (C-based Game + TCP/IP); <br /> 11). Twizzy 项目 (基于Twizzy 汽车实时路标识别);
 
-- 2024-2024年: <br /> 同2023-2024年
+- 2024-2024年: <br /> 1). 算法与编程 (Python); 3). 无线感测网络; 12). 计算机网络; 
 
 ## 学生指导经验
 - [Lijie Yang](https://derrickylj.github.io/), Carnegie Mellon University 本科生，2022年7月-2024年4月，和 宋叶琼教授, Théo Docquier博士，[Ludovic Thomas博士](https://members.loria.fr/LThomas/)负责指导
