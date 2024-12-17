@@ -38,35 +38,37 @@
 | 6 | √  | A-,B,B (GSS) | IEEE  |
 | 7 | √  | B,B (GSS) | IEEE  |
 
-- [1] Su, Runbo, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, and Ye-Qiong Song. “Assessing intra-and inter-community trustworthiness in IoT: A role-based attack-resilient dynamic trust management model.” Internet of Things 26 (2024): 101213 (SCI：Q1，JIF: 17/119；中科院大类三区)[DOI](https://doi.org/10.1016/j.iot.2024.101213)
+- [1] Su, Runbo, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, and Ye-Qiong Song. “Assessing intra-and inter-community trustworthiness in IoT: A role-based attack-resilient dynamic trust management model.” [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things) 26 (2024): 101213 (SCI：Q1，JIF: 17/119；中科院大类三区)[DOI](https://doi.org/10.1016/j.iot.2024.101213)
 
-- [2]Su, Runbo, et al. “Ensuring trustworthiness in ioit/aiot: A phase-based approach.” IEEE IoT Magazine, 5(2), 84-88.[DOI](https://doi.org/10.1109/IOTM.001.2100190) 
+- [2]Su, Runbo, et al. “Ensuring trustworthiness in ioit/aiot: A phase-based approach.” [IEEE IoT Magazine](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine), 5(2), 84-88.[DOI](https://doi.org/10.1109/IOTM.001.2100190) 
 
-- [3] Su, Runbo, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, and Ye-Qiong Song . “A Game Theoretical Model addressing Misbehavior in Crowdsourcing IoT.” In 2023 20th IEEE SECON (pp. 195-203). 2023年9月11-14日，西班牙马德里。 会议等级(CORE:B, LiveSHINE:A, MA:A) [DOI](https://dl.acm.org/doi/abs/10.5555/3639940.3639978), [pdf](https://hal.science/hal-04161463v1/file/EWSN23_WIP.pdf)
+- [3] Su, Runbo, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, and Ye-Qiong Song . “A Game Theoretical Model addressing Misbehavior in Crowdsourcing IoT.” In [2023 20th IEEE SECON](https://secon2023.ieee-secon.org/) (pp. 195-203). 2023年9月11-14日，西班牙马德里。 会议等级(CORE:B, LiveSHINE:A, MA:A) [DOI](https://dl.acm.org/doi/abs/10.5555/3639940.3639978), [pdf](https://hal.science/hal-04161463v1/file/EWSN23_WIP.pdf)
  
-- [4] Su, Runbo, & Saint-Jore, Amaury. “A Role-based Trust Model assessing IoA services: First Results on Real MAS Implementation by using ROS 2.” In 2023 EWSN (pp. 293-296). 2023年9月25-27日，意大利伦代, EWSN(International Conference on Embedded Wireless Systems and Networks) 国际嵌入式无线系统和网络. [DOI](https://dl.acm.org/doi/abs/10.5555/3639940.3639978), [pdf](https://hal.science/hal-04161463v1/file/EWSN23_WIP.pdf)
+- [4] Su, Runbo, & Saint-Jore, Amaury. “A Role-based Trust Model assessing IoA services: First Results on Real MAS Implementation by using ROS 2.” In [2023 EWSN](https://events.dimes.unical.it/ewsn2023/) (pp. 293-296). 2023年9月25-27日，意大利伦代, EWSN(International Conference on Embedded Wireless Systems and Networks) 国际嵌入式无线系统和网络. [DOI](https://dl.acm.org/doi/abs/10.5555/3639940.3639978), [pdf](https://hal.science/hal-04161463v1/file/EWSN23_WIP.pdf)
  
-- [5] Su, Runbo, Yujun Jin, and Ye-Qiong Song. “Assessing Trustworthiness of V2X Messages: A Cooperative Trust Model Against CAM-and CPM-Based Ghost Vehicles in IoV.” In 2024 VEHITS (pp. 276-283). 2024年5月2-4日，法国翁热, Vehits(International Conference on Vehicle Technology and Intelligent Transport Systems)国际车辆技术和智能交通系统会议. [DOI](https://doi.org/10.5220/0012605200003702), [pdf](https://hal.science/hal-04453209v4/file/Vehist.pdf)
+- [5] Su, Runbo, Yujun Jin, and Ye-Qiong Song. “Assessing Trustworthiness of V2X Messages: A Cooperative Trust Model Against CAM-and CPM-Based Ghost Vehicles in IoV.” In [2024 VEHITS](https://vehits.scitevents.org/?y=2024) (pp. 276-283). 2024年5月2-4日，法国翁热, Vehits(International Conference on Vehicle Technology and Intelligent Transport Systems)国际车辆技术和智能交通系统会议. [DOI](https://doi.org/10.5220/0012605200003702), [pdf](https://hal.science/hal-04453209v4/file/Vehist.pdf)
  
-- [6] Su, Runbo, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, and Ye-Qiong Song. “PDTM: Phase-based dynamic trust management for Internet of things.” In 2021 IEEE ICCCN (pp. 1-7). 2021年7月19-22日，希腊雅典, IEEE ICCCN(International Conference on Computer Communications and Networks)国际计算机通信与网络会议.[DOI](https://doi.org/10.1109/ICCCN52240.2021.9522234), [pdf](https://hal.science/hal-03322831v1/file/Su-PDTM.pdf), [video](https://www.youtube.com/playlist?list=PLzIU1iYy4sJjPSz7HjvMLYme7z4D1E4KW)
+- [6] Su, Runbo, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, and Ye-Qiong Song. “PDTM: Phase-based dynamic trust management for Internet of things.” In [2021 IEEE ICCCN](http://www.icccn.org/icccn21/index.html) (pp. 1-7). 2021年7月19-22日，希腊雅典, IEEE ICCCN(International Conference on Computer Communications and Networks)国际计算机通信与网络会议.[DOI](https://doi.org/10.1109/ICCCN52240.2021.9522234), [pdf](https://hal.science/hal-03322831v1/file/Su-PDTM.pdf), [video](https://www.youtube.com/playlist?list=PLzIU1iYy4sJjPSz7HjvMLYme7z4D1E4KW)
   
-- [7] Su, Runbo, Arbia Riahi Sfar, and Pascal Moyal. “Game theoretical analysis of strategy changes and influence factors in Crowdsourcing IoT systems.” In 2024 IEEE DCOSS-IoT. 2024年4月29日-5月1日，阿联酋阿布达比, IEEE DCOSS(International Conference on Distributed Computing in Sensor Systems) 国际传感器系统分布式计算会议. [DOI](https://doi.org/10.1109/DCOSS-IoT61029.2024.00048), [pdf](https://hal.science/hal-04564953/document)
+- [7] Su, Runbo, Arbia Riahi Sfar, and Pascal Moyal. “Game theoretical analysis of strategy changes and influence factors in Crowdsourcing IoT systems.” In [2024 IEEE DCOSS-IoT](https://dcoss.org/dcoss24/). 2024年4月29日-5月1日，阿联酋阿布达比, IEEE DCOSS(International Conference on Distributed Computing in Sensor Systems) 国际传感器系统分布式计算会议. [DOI](https://doi.org/10.1109/DCOSS-IoT61029.2024.00048), [pdf](https://hal.science/hal-04564953/document)
 
 
 <!-- - Intern. @ Team Simbiot (_Mar. 2020 - Sept. 2020_))
 (-<br />  Loria, University of Lorraine) 
 (-<br /> _QoS management in SDN (Software Defined Networking): Delay focused study_) -->
 ## 项目参与
-1) 项目编号：ANR-18-CE40-0019；
-<br />名称：[MATCHES](https://anr.fr/Project-ANR-18-CE40-0019) (法国ANR项目：Matching Architectures That Connect heterogeneous users and Healthcare Efficient Systems)；该项目旨在分析这种随机匹配模型的主要数学特性，并开发优化其行为的工具。
+- 1) [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019)
+<br />项目编号：ANR-18-CE40-0019；
+<br />法国ANR项目，全称Matching Architectures That Connect heterogeneous users and Healthcare Efficient Systems，该项目旨在分析这种随机匹配模型的主要数学特性，并开发优化其行为的工具。
 <br />来源：法国国家研究署(Agence nationale de la recherche (ANR) )
 <br />项目金额：189,324 欧元
 <br />起止时间：2018年9月-2022年8月
 <br />负责人：Pascal Moyal教授
 <br />项目参与身份：博士生研究员
 
-2) 项目编号：ANR-23-CE25-0005；
-<br />名称：[COMMITS](https://commits.loria.fr/) (法国ANR项目 COnverged coMMunication, control and scheduling Infrastructure for multi pods-based Transport Systems)该项目旨在开发融合通信、控制和调度的基础设施，以构建一个网络物理系统，用于大规模管理智能交通网络。
+- 2) [COMMITS](https://commits.loria.fr/)
+<br />项目编号：ANR-23-CE25-0005；
+<br />法国ANR项目, 全称COnverged coMMunication, control and scheduling Infrastructure for multi pods-based Transport Systems, 该项目旨在开发融合通信、控制和调度的基础设施，以构建基于多吊舱运输系统的智能交通网络。
 <br />来源：法国国家研究署(Agence nationale de la recherche (ANR) )
 <br />项目金额：715,645 欧元
 <br />起止时间：2024年1月至今(预计48个月)
@@ -96,10 +98,10 @@
 - 2024-2024年: <br /> 同2023-2024年
 
 ## 学生指导经验
-- Lijie Yang, Carnegie Mellon University 本科生，2022年7月-2024年4月，和 宋叶琼教授, Théo Docquier博士，Ludovic Thomas博士负责指导
+- [Lijie Yang](https://derrickylj.github.io/), Carnegie Mellon University 本科生，2022年7月-2024年4月，和 宋叶琼教授, Théo Docquier博士，[Ludovic Thomas博士](https://members.loria.fr/LThomas/)负责指导
 <br />课题: Ethernet网络最差延迟的比较研究，[论文]([/report/report_4.pdf](https://www.researchgate.net/profile/Lijie-Yang-11/publication/368810541_Worst-case_delay_analysis_a_simulation-based_comparison_between_Flow_Aggregation_and_CPA/links/63fa6ea30cf1030a564ff6a4/Worst-case-delay-analysis-a-simulation-based-comparison-between-Flow-Aggregation-and-CPA.pdf))（Worst-case delay analysis: a simulation-based comparison between Flow Aggregation and CPA）
 
-- Florian Richanrd， ENSEM工程师学院学生，Loria计算机研究所实习生，2023年10月-2024年2月，和 宋叶琼教授共同指导
+- [Florian Richard](https://www.linkedin.com/in/florian-richard-6bb932233/edit/forms/next-action/after-connect-update-profile/)， ENSEM工程师学院学生，Loria计算机研究所实习生，2023年10月-2024年2月，和 宋叶琼教授共同指导
 <br />课题: 基于Python的“幽灵车”攻击及其影响的仿真，[论文](/report/report_4.pdf)（Study of the impact of the ”Ghost Vehicle” attack on a vehicular network simulator）
 
 - Yujun Jin， ENSEM工程师学院学生，Loria计算机研究所实习生，<br />2021年3月-2023年6月，和 宋叶琼教授共同指导
