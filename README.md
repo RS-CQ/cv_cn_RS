@@ -7,7 +7,7 @@
 - 电话：18696649555
 - 当前博士后在读 @ [Resist](https://team.inria.fr/resist/)组 (_2024年9月至今_)
 <br /> 法国 [Inria计算机及自动化研究所](https://www.inria.fr/fr/centre-inria-universite-lorraine)，[Loria计算机研究所](https://www.loria.fr/fr/), [洛林大学](https://www.univ-lorraine.fr/)
-<br /> 导师: [Ye-Qiong Song 教授](https://members.loria.fr/YQSong/), [Abdelkader Lahmadi副教授](https://members.loria.fr/ALahmadi/)
+<br /> 导师: [Ye-Qiong Song教授](https://members.loria.fr/YQSong/), [Abdelkader Lahmadi副教授](https://members.loria.fr/ALahmadi/)
 <br />博士后课题：基于[多吊舱运输系统](https://urbanloop.fr/en/)的5G/5G+嵌入式通信、控制和调度。
 
 ## 教育背景
