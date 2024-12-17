@@ -7,11 +7,11 @@
 - 电话：18696649555
 - 当前博士后在读 @ [Resist](https://team.inria.fr/resist/)组 (_2024年9月至今_)
 <br /> 法国 [Inria计算机及自动化研究所](https://www.inria.fr/fr/centre-inria-universite-lorraine)，[Loria计算机研究所](https://www.loria.fr/fr/), [洛林大学](https://www.univ-lorraine.fr/)
-
+<br /> 导师: [Ye-Qiong Song 教授](https://members.loria.fr/YQSong/), [Abdelkader Lahmadi副教授](https://members.loria.fr/ALahmadi/)
 
 ## 教育背景
 - 计算机博士, _2024年7月_, Loria 计算机研究所，[IECL数学研究所](https://iecl.univ-lorraine.fr/), [洛林大学](https://www.univ-lorraine.fr/)
-<br /> 导师: [Enrico Natalizio 教授](https://www.tii.ae/team/prof-enrico-natalizio) and [Pascal Moyal 教授](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/)
+<br /> 导师: [Enrico Natalizio 教授](https://www.tii.ae/team/prof-enrico-natalizio), [Pascal Moyal 教授](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/)
 <br />[博士课题](https://docnum.univ-lorraine.fr/public/DDOC_T_2024_0054_SU.pdf)：面向服务的物联网中的信任管理 
 
 - 工程师学位, _2020年6月_, [法国ENSEM工程师学院](https://ensem.univ-lorraine.fr/), 法国洛林大学 
@@ -57,27 +57,27 @@
 (-<br /> _QoS management in SDN (Software Defined Networking): Delay focused study_) -->
 ## 项目参与
 1) 项目编号：ANR-18-CE40-0019；
-名称：[MATCHES](https://anr.fr/Project-ANR-18-CE40-0019) (法国ANR项目：Matching Architectures That Connect heterogeneous users and Healthcare Efficient Systems)；该项目旨在分析这种随机匹配模型的主要数学特性，并开发优化其行为的工具。
-来源：法国国家研究署(Agence nationale de la recherche (ANR) )
-项目金额：189,324 欧元
-起止时间：2018年9月-2022年8月
-负责人：Pascal Moyal
-本人身份：博士生研究员
+<br />名称：[MATCHES](https://anr.fr/Project-ANR-18-CE40-0019) (法国ANR项目：Matching Architectures That Connect heterogeneous users and Healthcare Efficient Systems)；该项目旨在分析这种随机匹配模型的主要数学特性，并开发优化其行为的工具。
+<br />来源：法国国家研究署(Agence nationale de la recherche (ANR) )
+<br />项目金额：189,324 欧元
+<br />起止时间：2018年9月-2022年8月
+<br />负责人：Pascal Moyal教授
+<br />项目参与身份：博士生研究员
 
 2) 项目编号：ANR-23-CE25-0005；
-名称：[COMMITS](https://commits.loria.fr/) (法国ANR项目 COnverged coMMunication, control and scheduling Infrastructure for multi pods-based Transport Systems)该项目旨在开发融合通信、控制和调度的基础设施，以构建一个网络物理系统，用于大规模管理智能交通网络。
-来源：法国国家研究署(Agence nationale de la recherche (ANR) )
-项目金额：715,645 欧元
-起止时间：2024年1月至今(预计48个月)
-负责人：Abdelkader Lahmadi
-本人身份：博士后研究员
+<br />名称：[COMMITS](https://commits.loria.fr/) (法国ANR项目 COnverged coMMunication, control and scheduling Infrastructure for multi pods-based Transport Systems)该项目旨在开发融合通信、控制和调度的基础设施，以构建一个网络物理系统，用于大规模管理智能交通网络。
+<br />来源：法国国家研究署(Agence nationale de la recherche (ANR) )
+<br />项目金额：715,645 欧元
+<br />起止时间：2024年1月至今(预计48个月)
+<br />负责人：[Abdelkader Lahmadi副教授](https://members.loria.fr/ALahmadi/)
+<br />项目参与身份：博士后研究员
 
 
 ## 学术兼职(学术协会，期刊及会议审稿工作等)
 - IEEE member, _2022年至今_
-- Elsevier Computer Networks Journal，Q1(JCR), SCI，  _2022年至今_
-- Elsevier Internet of Things Journal，Q1(JCR), SCI， _2024年至今_
-- 2025 ICCCN， TPC member
+- Elsevier Computer Networks Journal，Q1(JCR), SCI，审稿人  _2022年至今_
+- Elsevier Internet of Things Journal，Q1(JCR), SCI，审稿人 _2024年至今_
+- 2025 ICCCN，TPC member
 
 
 
