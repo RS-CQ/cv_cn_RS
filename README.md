@@ -95,30 +95,33 @@
 
 - 2024-2024年: <br /> 同2023-2024年
 
-## 硕士指导经验
-- Justinien Hennechart，ENSEM 工程师学院学生，
-<br />2021年10月-2022年2月，和 [Ye-Qiong Song 教授](https://members.loria.fr/YQSong/) 共同负责指导
-<br />课题: 车联网信任管理的仿真和实验，[论文](/report/report_1.pdf)（Simulation and Experimentation of Trust Management in VANET）
-
-- Fadwa Mouhdi， 洛林大学数学系硕士生，<br />2022年1月-2022年4月，和 Pascal Moyal 教授共同负责指导
-<br />课题: 物联网信任管理的博弈论建模，[论文](/report/report_2.pdf)（Modelling the trust in IoT by applying Game Theory）
-
-- Yujun Jin， ENSEM工程师学院学生，Loria计算机研究所实习生，<br />2021年3月-2023年6月，和 Ye-Qiong Song 教授共同负责指导
-<br />课题: 车辆网行人管理的仿真及相关V2X通信的应用，[论文](/report/report_3.pdf)（Simulation of trust management in VANET (Vehicular Ad-hoc NETwork) by using V2X (Vehicle-to-Everything) messages)
+## 学生指导经验
+- Lijie Yang, Carnegie Mellon University 本科生，2022年7月-2024年4月，和 Ye-Qiong Song 教授, Théo Docquier博士，Ludovic Thomas博士共同负责指导
+<br />课题: Ethernet网络最差延迟的比较研究，[论文]([/report/report_4.pdf](https://www.researchgate.net/profile/Lijie-Yang-11/publication/368810541_Worst-case_delay_analysis_a_simulation-based_comparison_between_Flow_Aggregation_and_CPA/links/63fa6ea30cf1030a564ff6a4/Worst-case-delay-analysis-a-simulation-based-comparison-between-Flow-Aggregation-and-CPA.pdf))（Worst-case delay analysis: a simulation-based comparison between Flow Aggregation and CPA）
 
 - Florian Richanrd， ENSEM工程师学院学生，Loria计算机研究所实习生，2023年10月-2024年2月，和 Ye-Qiong Song 教授共同负责指导
 <br />课题: 基于Python的“幽灵车”攻击及其影响的仿真，[论文](/report/report_4.pdf)（Study of the impact of the ”Ghost Vehicle” attack on a vehicular network simulator）
 
-- Lijie Yang, Carnegie Mellon University 本科生，2022年7月-2024年4月，和 Ye-Qiong Song 教授, Théo Docquier博士，Ludovic Thomas博士共同负责指导
-<br />课题: Ethernet网络最差延迟的比较研究，[论文]([/report/report_4.pdf](https://www.researchgate.net/profile/Lijie-Yang-11/publication/368810541_Worst-case_delay_analysis_a_simulation-based_comparison_between_Flow_Aggregation_and_CPA/links/63fa6ea30cf1030a564ff6a4/Worst-case-delay-analysis-a-simulation-based-comparison-between-Flow-Aggregation-and-CPA.pdf))（Worst-case delay analysis: a simulation-based comparison between Flow Aggregation and CPA） 
+- Yujun Jin， ENSEM工程师学院学生，Loria计算机研究所实习生，<br />2021年3月-2023年6月，和 Ye-Qiong Song 教授共同负责指导
+<br />课题: 车辆网行人管理的仿真及相关V2X通信的应用，[论文](/report/report_3.pdf)（Simulation of trust management in VANET (Vehicular Ad-hoc NETwork) by using V2X (Vehicle-to-Everything) messages)
+
+- Fadwa Mouhdi，洛林大学数学系硕士生，<br />2022年1月-2022年4月，和 Pascal Moyal 教授共同负责指导
+<br />课题: 物联网信任管理的博弈论建模，[论文](/report/report_2.pdf)（Modelling the trust in IoT by applying Game Theory）
+
+- Justinien Hennechart，ENSEM 工程师学院学生，
+<br />2021年10月-2022年2月，和 [Ye-Qiong Song 教授](https://members.loria.fr/YQSong/) 共同负责指导
+<br />课题: 车联网信任管理的仿真和实验，[论文](/report/report_1.pdf)（Simulation and Experimentation of Trust Management in VANET）
+
+
+
 
 
 
 
 
 ## 联系方式
-- [研究所邮件@inria](mailto:runbo.su@inria.fr) 
-- [大学邮件@univ-lorraine](mailto:runbo.su@univ-lorraine.fr) 
+- Lab: [runbo.su@inria.fr](mailto:runbo.su@inria.fr) 
+- 学校：[runbo.su@univ-lorraine.fr](mailto:runbo.su@univ-lorraine.fr) 
 - [![](/image/orcid_resized2.png)](https://orcid.org/0000-0001-5116-8207)
 - [![](/image/linkedin_reresized4.jpg)](https://www.linkedin.com/in/runbo-su-ab32a3151/)
 
