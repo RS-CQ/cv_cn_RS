@@ -11,7 +11,7 @@
 <br />博士后课题：基于[多吊舱运输系统](https://urbanloop.fr/en/)的5G/5G+嵌入式通信、控制和调度。
 
 ## 教育背景
-- 计算机博士, _2024年7月_, @ [Simbiot]([https://team.inria.fr/resist/](https://simbiot.gitlabpages.inria.fr/web/index.html))组, Loria 计算机研究所，[IECL数学研究所](https://iecl.univ-lorraine.fr/), [洛林大学](https://www.univ-lorraine.fr/)
+- 计算机博士, _2024年7月_, @ [Simbiot](https://simbiot.gitlabpages.inria.fr/web/index.html)组, Loria 计算机研究所，[IECL数学研究所](https://iecl.univ-lorraine.fr/), [洛林大学](https://www.univ-lorraine.fr/)
 <br /> 导师: [Enrico Natalizio 教授](https://www.tii.ae/team/prof-enrico-natalizio), [Pascal Moyal 教授](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/)
 <br />[博士课题](https://docnum.univ-lorraine.fr/public/DDOC_T_2024_0054_SU.pdf)：面向服务的物联网中的信任管理 
 
