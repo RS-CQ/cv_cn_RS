@@ -38,9 +38,9 @@
 | 6 | √  | A-,B,B (GSS) | IEEE  |
 | 7 | √  | B,B (GSS) | IEEE  |
 
-- [1] Su, Runbo, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, and Ye-Qiong Song. “Assessing intra-and inter-community trustworthiness in IoT: A role-based attack-resilient dynamic trust management model.” [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things) 26 (2024): 101213 (SCI：Q1，JIF: 17/119；中科院大类三区).[DOI](https://doi.org/10.1016/j.iot.2024.101213)
+- [1] Su, Runbo, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, and Ye-Qiong Song. “Assessing intra-and inter-community trustworthiness in IoT: A role-based attack-resilient dynamic trust management model.” [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things) 26 (2024): 101213 (SCI：Q1，JIF: 17/119；中科院大类三区). [DOI](https://doi.org/10.1016/j.iot.2024.101213)
 
-- [2]Su, Runbo, et al. “Ensuring trustworthiness in ioit/aiot: A phase-based approach.” [IEEE IoT Magazine](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine), 5(2), 84-88.[DOI](https://doi.org/10.1109/IOTM.001.2100190) 
+- [2]Su, Runbo, et al. “Ensuring trustworthiness in ioit/aiot: A phase-based approach.” [IEEE IoT Magazine](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine), 5(2), 84-88. [DOI](https://doi.org/10.1109/IOTM.001.2100190) 
 
 - [3] Su, Runbo, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, and Ye-Qiong Song . “A Game Theoretical Model addressing Misbehavior in Crowdsourcing IoT.” In [2023 20th IEEE SECON](https://secon2023.ieee-secon.org/) (pp. 195-203). 2023年9月11-14日，西班牙马德里, IEEE SECON(International Conference on Sensing, Communication, and Networking) 国际电气和电子工程师学会传感、通信和网络年会. [DOI](https://dl.acm.org/doi/abs/10.5555/3639940.3639978), [pdf](https://hal.science/hal-04161463v1/file/EWSN23_WIP.pdf)
  
@@ -48,7 +48,7 @@
  
 - [5] Su, Runbo, Yujun Jin, and Ye-Qiong Song. “Assessing Trustworthiness of V2X Messages: A Cooperative Trust Model Against CAM-and CPM-Based Ghost Vehicles in IoV.” In [2024 VEHITS](https://vehits.scitevents.org/?y=2024) (pp. 276-283). 2024年5月2-4日，法国翁热, Vehits(International Conference on Vehicle Technology and Intelligent Transport Systems)国际车辆技术和智能交通系统会议. [DOI](https://doi.org/10.5220/0012605200003702), [pdf](https://hal.science/hal-04453209v4/file/Vehist.pdf)
  
-- [6] Su, Runbo, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, and Ye-Qiong Song. “PDTM: Phase-based dynamic trust management for Internet of things.” In [2021 IEEE ICCCN](http://www.icccn.org/icccn21/index.html) (pp. 1-7). 2021年7月19-22日，希腊雅典, IEEE ICCCN(International Conference on Computer Communications and Networks)国际计算机通信与网络会议.[DOI](https://doi.org/10.1109/ICCCN52240.2021.9522234), [pdf](https://hal.science/hal-03322831v1/file/Su-PDTM.pdf), [video](https://www.youtube.com/playlist?list=PLzIU1iYy4sJjPSz7HjvMLYme7z4D1E4KW)
+- [6] Su, Runbo, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, and Ye-Qiong Song. “PDTM: Phase-based dynamic trust management for Internet of things.” In [2021 IEEE ICCCN](http://www.icccn.org/icccn21/index.html) (pp. 1-7). 2021年7月19-22日，希腊雅典, IEEE ICCCN(International Conference on Computer Communications and Networks)国际计算机通信与网络会议. [DOI](https://doi.org/10.1109/ICCCN52240.2021.9522234), [pdf](https://hal.science/hal-03322831v1/file/Su-PDTM.pdf), [video](https://www.youtube.com/playlist?list=PLzIU1iYy4sJjPSz7HjvMLYme7z4D1E4KW)
   
 - [7] Su, Runbo, Arbia Riahi Sfar, and Pascal Moyal. “Game theoretical analysis of strategy changes and influence factors in Crowdsourcing IoT systems.” In [2024 IEEE DCOSS-IoT](https://dcoss.org/dcoss24/). 2024年4月29日-5月1日，阿联酋阿布达比, IEEE DCOSS(International Conference on Distributed Computing in Sensor Systems) 国际传感器系统分布式计算会议. [DOI](https://doi.org/10.1109/DCOSS-IoT61029.2024.00048), [pdf](https://hal.science/hal-04564953/document)
 
@@ -88,17 +88,17 @@
 
 - 自21年9月起开始在法国ENSEM工程师学院参与教学工作：
 
-- 2021-2022年:
+- [2021-2022年](/teaching/21-22.pdf):
 <br /> 1). 算法与编程 (Python); <br /> 2). 算法与面向对象的变成 (Python+Java)
 
-- 2022-2023年: <br /> 1-2) 同2021-2022年课程; <br /> 3). 无线感测网络 (General IoT, MQTT, NodeRed, XBEE, LoRa, 等等)
+- [2022-2023年](/teaching/22-23.pdf): <br /> 1-2) 同2021-2022年课程; <br /> 3). 无线感测网络 (General IoT, MQTT, NodeRed, XBEE, LoRa, 等等)
 
-- 2023-2024年: <br /> 1-3) 同2021-2022年 及 2022-2023年课程; <br /> 4). 数据库 (SQL + MongoDB)      <br /> 5). 算法及数据结构 (Java); <br /> 6). 微控制器的数字集成 (IoT + Arduino); <br /> 7). 工业系统的实施和网络安全 (LADDER language on OpenPLC, IHM on ScadaBR, firewall + attack test); <br /> 8). 分布式系统 (Task distribution, mutual exclusion); <br /> 9). IoT implementation (by using Pycom cards, NodeRed, and MySQL); <br /> 10). C 语言编程 (C-based Game + TCP/IP); <br /> 11). Twizzy 项目 (基于Twizzy 汽车实时路标识别);
+- [2023-2024年](/teaching/23-24.pdf): <br /> 1-3) 同2021-2022年 及 2022-2023年课程; <br /> 4). 数据库 (SQL + MongoDB)      <br /> 5). 算法及数据结构 (Java); <br /> 6). 微控制器的数字集成 (IoT + Arduino); <br /> 7). 工业系统的实施和网络安全 (LADDER language on OpenPLC, IHM on ScadaBR, firewall + attack test); <br /> 8). 分布式系统 (Task distribution, mutual exclusion); <br /> 9). IoT implementation (by using Pycom cards, NodeRed, and MySQL); <br /> 10). C 语言编程 (C-based Game + TCP/IP); <br /> 11). Twizzy 项目 (基于Twizzy 汽车实时路标识别);
 
-- 2024-2024年: <br /> 1). 算法与编程 (Python); 3). 无线感测网络; 12). 计算机网络; 
+- 2024年-至今: <br /> 1). 算法与编程 (Python); <br />3). 无线感测网络; <br />12). 计算机网络; 
 
 ## 学生指导经验
-- [Lijie Yang](https://derrickylj.github.io/), Carnegie Mellon University 本科生，2022年7月-2024年4月，和 宋叶琼教授, Théo Docquier博士，[Ludovic Thomas博士](https://members.loria.fr/LThomas/)负责指导
+- [Lijie Yang](https://derrickylj.github.io/), Carnegie Mellon University 本科生，2022年7月-2024年4月，和 宋叶琼教授, Théo Docquier博士，[Ludovic Thomas博士](https://members.loria.fr/LThomas/)共同指导
 <br />课题: Ethernet网络最差延迟的比较研究，[论文]([/report/report_4.pdf](https://www.researchgate.net/profile/Lijie-Yang-11/publication/368810541_Worst-case_delay_analysis_a_simulation-based_comparison_between_Flow_Aggregation_and_CPA/links/63fa6ea30cf1030a564ff6a4/Worst-case-delay-analysis-a-simulation-based-comparison-between-Flow-Aggregation-and-CPA.pdf))（Worst-case delay analysis: a simulation-based comparison between Flow Aggregation and CPA）
 
 - [Florian Richard](https://www.linkedin.com/in/florian-richard-6bb932233/edit/forms/next-action/after-connect-update-profile/)， ENSEM工程师学院学生，Loria计算机研究所实习生，2023年10月-2024年2月，和 宋叶琼教授共同指导
