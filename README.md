@@ -38,13 +38,13 @@
 | 6 | √  | A-,B,B (GSS) | IEEE  |
 | 7 | √  | B,B (GSS) | IEEE  |
 
-- [1] Su, Runbo, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, and Ye-Qiong Song. “Assessing intra-and inter-community trustworthiness in IoT: A role-based attack-resilient dynamic trust management model.” [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things) 26 (2024): 101213 (SCI：Q1，JIF: 17/119；中科院大类三区)[DOI](https://doi.org/10.1016/j.iot.2024.101213)
+- [1] Su, Runbo, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, and Ye-Qiong Song. “Assessing intra-and inter-community trustworthiness in IoT: A role-based attack-resilient dynamic trust management model.” [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things) 26 (2024): 101213 (SCI：Q1，JIF: 17/119；中科院大类三区).[DOI](https://doi.org/10.1016/j.iot.2024.101213)
 
 - [2]Su, Runbo, et al. “Ensuring trustworthiness in ioit/aiot: A phase-based approach.” [IEEE IoT Magazine](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine), 5(2), 84-88.[DOI](https://doi.org/10.1109/IOTM.001.2100190) 
 
-- [3] Su, Runbo, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, and Ye-Qiong Song . “A Game Theoretical Model addressing Misbehavior in Crowdsourcing IoT.” In [2023 20th IEEE SECON](https://secon2023.ieee-secon.org/) (pp. 195-203). 2023年9月11-14日，西班牙马德里。 会议等级(CORE:B, LiveSHINE:A, MA:A) [DOI](https://dl.acm.org/doi/abs/10.5555/3639940.3639978), [pdf](https://hal.science/hal-04161463v1/file/EWSN23_WIP.pdf)
+- [3] Su, Runbo, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, and Ye-Qiong Song . “A Game Theoretical Model addressing Misbehavior in Crowdsourcing IoT.” In [2023 20th IEEE SECON](https://secon2023.ieee-secon.org/) (pp. 195-203). 2023年9月11-14日，西班牙马德里, IEEE SECON(International Conference on Sensing, Communication, and Networking) 国际电气和电子工程师学会传感、通信和网络年会. [DOI](https://dl.acm.org/doi/abs/10.5555/3639940.3639978), [pdf](https://hal.science/hal-04161463v1/file/EWSN23_WIP.pdf)
  
-- [4] Su, Runbo, & Saint-Jore, Amaury. “A Role-based Trust Model assessing IoA services: First Results on Real MAS Implementation by using ROS 2.” In [2023 EWSN](https://events.dimes.unical.it/ewsn2023/) (pp. 293-296). 2023年9月25-27日，意大利伦代, EWSN(International Conference on Embedded Wireless Systems and Networks) 国际嵌入式无线系统和网络. [DOI](https://dl.acm.org/doi/abs/10.5555/3639940.3639978), [pdf](https://hal.science/hal-04161463v1/file/EWSN23_WIP.pdf)
+- [4] Su, Runbo, & Saint-Jore, Amaury. “A Role-based Trust Model assessing IoA services: First Results on Real MAS Implementation by using ROS 2.” In [2023 EWSN](https://events.dimes.unical.it/ewsn2023/) (pp. 293-296). 2023年9月25-27日，意大利伦代, EWSN(International Conference on Embedded Wireless Systems and Networks) 国际嵌入式无线系统和网络会议. [DOI](https://dl.acm.org/doi/abs/10.5555/3639940.3639978), [pdf](https://hal.science/hal-04161463v1/file/EWSN23_WIP.pdf)
  
 - [5] Su, Runbo, Yujun Jin, and Ye-Qiong Song. “Assessing Trustworthiness of V2X Messages: A Cooperative Trust Model Against CAM-and CPM-Based Ghost Vehicles in IoV.” In [2024 VEHITS](https://vehits.scitevents.org/?y=2024) (pp. 276-283). 2024年5月2-4日，法国翁热, Vehits(International Conference on Vehicle Technology and Intelligent Transport Systems)国际车辆技术和智能交通系统会议. [DOI](https://doi.org/10.5220/0012605200003702), [pdf](https://hal.science/hal-04453209v4/file/Vehist.pdf)
  
