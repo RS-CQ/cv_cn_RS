@@ -7,7 +7,7 @@
 - 电话：18696649555
 - 当前博士后在读 @ [Resist](https://team.inria.fr/resist/)组 (_2024年9月至今_)
 <br /> 法国 [Inria计算机及自动化研究所](https://www.inria.fr/fr/centre-inria-universite-lorraine)，[Loria计算机研究所](https://www.loria.fr/fr/), [洛林大学](https://www.univ-lorraine.fr/)
-<br /> 导师: [Ye-Qiong Song教授](https://members.loria.fr/YQSong/), [Abdelkader Lahmadi副教授](https://members.loria.fr/ALahmadi/)
+<br /> 导师: [宋叶琼教授](https://members.loria.fr/YQSong/), [Abdelkader Lahmadi副教授](https://members.loria.fr/ALahmadi/)
 <br />博士后课题：基于[多吊舱运输系统](https://urbanloop.fr/en/)的5G/5G+嵌入式通信、控制和调度。
 
 ## 教育背景
@@ -96,20 +96,20 @@
 - 2024-2024年: <br /> 同2023-2024年
 
 ## 学生指导经验
-- Lijie Yang, Carnegie Mellon University 本科生，2022年7月-2024年4月，和 Ye-Qiong Song 教授, Théo Docquier博士，Ludovic Thomas博士共同负责指导
+- Lijie Yang, Carnegie Mellon University 本科生，2022年7月-2024年4月，和 宋叶琼教授, Théo Docquier博士，Ludovic Thomas博士负责指导
 <br />课题: Ethernet网络最差延迟的比较研究，[论文]([/report/report_4.pdf](https://www.researchgate.net/profile/Lijie-Yang-11/publication/368810541_Worst-case_delay_analysis_a_simulation-based_comparison_between_Flow_Aggregation_and_CPA/links/63fa6ea30cf1030a564ff6a4/Worst-case-delay-analysis-a-simulation-based-comparison-between-Flow-Aggregation-and-CPA.pdf))（Worst-case delay analysis: a simulation-based comparison between Flow Aggregation and CPA）
 
-- Florian Richanrd， ENSEM工程师学院学生，Loria计算机研究所实习生，2023年10月-2024年2月，和 Ye-Qiong Song 教授共同负责指导
+- Florian Richanrd， ENSEM工程师学院学生，Loria计算机研究所实习生，2023年10月-2024年2月，和 宋叶琼教授共同指导
 <br />课题: 基于Python的“幽灵车”攻击及其影响的仿真，[论文](/report/report_4.pdf)（Study of the impact of the ”Ghost Vehicle” attack on a vehicular network simulator）
 
-- Yujun Jin， ENSEM工程师学院学生，Loria计算机研究所实习生，<br />2021年3月-2023年6月，和 Ye-Qiong Song 教授共同负责指导
+- Yujun Jin， ENSEM工程师学院学生，Loria计算机研究所实习生，<br />2021年3月-2023年6月，和 宋叶琼教授共同指导
 <br />课题: 车辆网行人管理的仿真及相关V2X通信的应用，[论文](/report/report_3.pdf)（Simulation of trust management in VANET (Vehicular Ad-hoc NETwork) by using V2X (Vehicle-to-Everything) messages)
 
-- Fadwa Mouhdi，洛林大学数学系硕士生，<br />2022年1月-2022年4月，和 Pascal Moyal 教授共同负责指导
+- Fadwa Mouhdi，洛林大学数学系硕士生，<br />2022年1月-2022年4月，和 Pascal Moyal 教授共同指导
 <br />课题: 物联网信任管理的博弈论建模，[论文](/report/report_2.pdf)（Modelling the trust in IoT by applying Game Theory）
 
 - Justinien Hennechart，ENSEM 工程师学院学生，
-<br />2021年10月-2022年2月，和 [Ye-Qiong Song 教授](https://members.loria.fr/YQSong/) 共同负责指导
+<br />2021年10月-2022年2月，和 宋叶琼教授共同指导
 <br />课题: 车联网信任管理的仿真和实验，[论文](/report/report_1.pdf)（Simulation and Experimentation of Trust Management in VANET）
 
 
