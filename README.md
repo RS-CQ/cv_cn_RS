@@ -108,6 +108,9 @@
 - Florian Richanrd， ENSEM工程师学院学生，Loria计算机研究所实习生，2023年10月-2024年2月，和 Ye-Qiong Song 教授共同负责指导
 <br />课题: 基于Python的“幽灵车”攻击及其影响的仿真，[论文](/report/report_4.pdf)（Study of the impact of the ”Ghost Vehicle” attack on a vehicular network simulator）
 
+- Lijie Yang, Carnegie Mellon University 本科生，2022年7月-2024年4月，和 Ye-Qiong Song 教授, Théo Docquier博士，Ludovic Thomas博士共同负责指导
+<br />课题: Ethernet网络最差延迟的比较研究，[论文]([/report/report_4.pdf](https://www.researchgate.net/profile/Lijie-Yang-11/publication/368810541_Worst-case_delay_analysis_a_simulation-based_comparison_between_Flow_Aggregation_and_CPA/links/63fa6ea30cf1030a564ff6a4/Worst-case-delay-analysis-a-simulation-based-comparison-between-Flow-Aggregation-and-CPA.pdf))（Worst-case delay analysis: a simulation-based comparison between Flow Aggregation and CPA） 
+
 
 
 
