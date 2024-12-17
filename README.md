@@ -15,16 +15,16 @@
 <br /> 导师: [Enrico Natalizio 教授](https://www.tii.ae/team/prof-enrico-natalizio), [Pascal Moyal 教授](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/)
 <br />[博士课题](https://docnum.univ-lorraine.fr/public/DDOC_T_2024_0054_SU.pdf)：面向服务的物联网中的信任管理 
 
-- 工程师学位, _2020年6月_, [法国ENSEM工程师学院](https://ensem.univ-lorraine.fr/), 法国洛林大学 
+- 工程师学位, _2020年6月_, [法国ENSEM工程师学院](https://ensem.univ-lorraine.fr/), 法国洛林大学
 <br /> 数字化系统	
 
-- 硕士, _2020年6月_, 法国洛林大学 	
+- 硕士, _2020年6月_, 法国洛林大学，计算机系  	
 <br /> 信息与系统安全，工程师学位双文凭
 
 ## 主要研究方向
-我的研究方向主要研究方向是网络物理系统（CPS）的性能及可靠性研究。目前，集中在两个子方向：
-- 面向服务的物联网中基于信任的数学建模及性能评估。
-- 4G/5G车联网及智能交通中服务质量（QoS）相关的性能评估和可靠性研究。
+- 我的研究方向主要研究方向是网络物理系统（CPS）的性能及可靠性研究。目前，集中在两个子方向：
+<br /> 面向服务的物联网中基于信任的数学建模及性能评估。
+<br />4G/5G/5G+车联网及智能交通中服务质量（QoS）相关的性能评估和可靠性研究。
 
 ## 论文发表
 
@@ -57,23 +57,23 @@
 (-<br />  Loria, University of Lorraine) 
 (-<br /> _QoS management in SDN (Software Defined Networking): Delay focused study_) -->
 ## 项目参与
-- 1) [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019)
+- [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019)
 <br />项目编号：ANR-18-CE40-0019；
 <br />法国ANR项目，全称Matching Architectures That Connect heterogeneous users and Healthcare Efficient Systems，该项目旨在分析这种随机匹配模型的主要数学特性，并开发优化其行为的工具。
 <br />来源：法国国家研究署(Agence nationale de la recherche (ANR) )
 <br />项目金额：189,324 欧元
 <br />起止时间：2018年9月-2022年8月
 <br />负责人：Pascal Moyal教授
-<br />项目参与身份：博士生研究员
+<br />本人项目参与身份：博士生研究员
 
-- 2) [COMMITS](https://commits.loria.fr/)
+- [COMMITS](https://commits.loria.fr/)
 <br />项目编号：ANR-23-CE25-0005；
 <br />法国ANR项目, 全称COnverged coMMunication, control and scheduling Infrastructure for multi pods-based Transport Systems, 该项目旨在开发融合通信、控制和调度的基础设施，以构建基于多吊舱运输系统的智能交通网络。
 <br />来源：法国国家研究署(Agence nationale de la recherche (ANR) )
 <br />项目金额：715,645 欧元
 <br />起止时间：2024年1月至今(预计48个月)
-<br />负责人：[Abdelkader Lahmadi副教授](https://members.loria.fr/ALahmadi/)
-<br />项目参与身份：博士后研究员
+<br />负责人：Abdelkader Lahmadi副教授
+<br />本人项目参与身份：博士后研究员
 
 
 ## 学术兼职(学术协会，期刊及会议审稿工作等)
@@ -98,7 +98,7 @@
 - 2024年-至今: <br /> 1). 算法与编程 (Python); <br />3). 无线感测网络; <br />12). 计算机网络; 
 
 ## 学生指导经验
-- [Lijie Yang](https://derrickylj.github.io/), Carnegie Mellon University 本科生，2022年7月-2024年4月，和 宋叶琼教授, Théo Docquier博士，[Ludovic Thomas博士](https://members.loria.fr/LThomas/)共同指导
+- [Lijie Yang](https://derrickylj.github.io/),   Carnegie Mellon University (CMU) 本科生，2022年7月-2024年4月，和 宋叶琼教授, Théo Docquier博士，[Ludovic Thomas博士](https://members.loria.fr/LThomas/)共同指导
 <br />课题: Ethernet网络最差延迟的比较研究，[论文]([/report/report_4.pdf](https://www.researchgate.net/profile/Lijie-Yang-11/publication/368810541_Worst-case_delay_analysis_a_simulation-based_comparison_between_Flow_Aggregation_and_CPA/links/63fa6ea30cf1030a564ff6a4/Worst-case-delay-analysis-a-simulation-based-comparison-between-Flow-Aggregation-and-CPA.pdf))（Worst-case delay analysis: a simulation-based comparison between Flow Aggregation and CPA）
 
 - [Florian Richard](https://www.linkedin.com/in/florian-richard-6bb932233/edit/forms/next-action/after-connect-update-profile/)， ENSEM工程师学院学生，Loria计算机研究所实习生，2023年10月-2024年2月，和 宋叶琼教授共同指导
