@@ -24,9 +24,9 @@
 ## 主要研究方向
 我的研究方向主要研究方向是网络物理系统（CPS）的性能及可靠性研究。目前，集中在两个子方向：
 
-- 面向服务的物联网中基于信任的数学建模及性能评估。
+- (1)物联网（IoT）与车联网（IoV）中的信任管理与安全性数学建模及性能评估。主要目标是物联网及车联网中设备与消息（message）的可信性评估，通过动态信任管理模型和合作信任机制等手段，抵御如幽灵车辆，洗白攻击等潜在威胁。其中也包括博弈论在物联网群众外包与分布式系统中的应用，比如利用博弈理论分析物联网系统中用户策略变化及其影响因素，设计防范恶意行为的机制，平衡系统参与者的行为与整体系统的稳定性。
 
-- 5G/5G+在车联网及智能交通中的部署，以及相关服务质量（QoS）相关的性能评估和可靠性研究。
+- (2)车联网与智能交通中的 5G/5G+ 技术应用及服务质量（QoS）优化，重点在于通过 5G 的低延迟、高可靠性和大规模连接特性，提升车辆间通信、自动驾驶、实时路况分析等应用的性能，并结合 QoS 指标（如延迟、可靠性、带宽、移动性支持等）的性能评估和优化，确保智能交通系统的稳定性与安全性。该子方向主要聚焦于多吊舱运输系统的5G/5G+嵌入式通信、控制和调度。
 
 <br/><br/>
 
@@ -61,14 +61,6 @@
 (-<br />  Loria, University of Lorraine) 
 (-<br /> _QoS management in SDN (Software Defined Networking): Delay focused study_) -->
 ## 项目参与
-- [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019)
-<br />项目编号：ANR-18-CE40-0019；
-<br />法国ANR项目，全称Matching Architectures That Connect heterogeneous users and Healthcare Efficient Systems，该项目旨在分析这种随机匹配模型的主要数学特性，并开发优化其行为的工具。
-<br />来源：法国国家研究署(Agence nationale de la recherche (ANR) )
-<br />项目金额：189,324 欧元
-<br />起止时间：2018年9月-2022年8月
-<br />负责人：Pascal Moyal教授
-<br />本人项目参与身份：博士生研究员
 
 - [COMMITS](https://commits.loria.fr/)
 <br />项目编号：ANR-23-CE25-0005；
@@ -78,6 +70,23 @@
 <br />起止时间：2024年1月至今(预计48个月)
 <br />负责人：Abdelkader Lahmadi副教授
 <br />本人项目参与身份：博士后研究员
+
+
+- [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019)
+<br />项目编号：ANR-18-CE40-0019；
+<br />法国ANR项目，全称Matching Architectures That Connect heterogeneous users and Healthcare Efficient Systems，该项目旨在分析这种随机匹配模型的主要数学特性，并开发优化其行为的工具。
+<br />来源：法国国家研究署(Agence nationale de la recherche (ANR) )
+<br />项目金额：189,324 欧元
+<br />起止时间：2018年9月-2022年8月
+<br />负责人：Pascal Moyal教授
+<br />本人项目参与身份：博士生研究员
+
+- [Urbanloop](https://urbanloop.fr/en/)
+<br />法国政府，法国交通部支持项目，
+<br />来源：法国洛林大学发起，现由法国交通部运输(Ministère des Transports)支持
+<br />起止时间：2017年9月至今
+<br />负责人：Jean-Philippe Mangeot 教授
+<br />本人项目参与身份: 工程师研究员(车辆穿插及变轨自动化)
 
 
 ## 学术兼职(学术相关协会，期刊及会议审稿工作等)
