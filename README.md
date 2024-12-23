@@ -8,18 +8,47 @@
 - 当前博士后在读 @ [Resist](https://team.inria.fr/resist/)组 (_2024年9月至今_)
 <br /> 法国 [Inria计算机及自动化研究所](https://www.inria.fr/fr/centre-inria-universite-lorraine)，[Loria计算机研究所](https://www.loria.fr/fr/), [洛林大学](https://www.univ-lorraine.fr/)
 <br /> 导师: [宋叶琼教授](https://members.loria.fr/YQSong/), [Abdelkader Lahmadi副教授](https://members.loria.fr/ALahmadi/)
-<br />博士后课题：5G在基于[多吊舱运输系统](https://urbanloop.fr/en/)的智能交通系统部署、通信质量的评估和优化。
+<br />博士后课题：基于[多吊舱运输系统](https://urbanloop.fr/en/)智能交通系统的5G部署、通信质量的评估和优化。
 
 ## 教育背景
 - 计算机博士, _2024年7月_, @ [Simbiot](https://simbiot.gitlabpages.inria.fr/web/index.html)组, Loria 计算机研究所，[IECL数学研究所](https://iecl.univ-lorraine.fr/), [洛林大学](https://www.univ-lorraine.fr/)
 <br /> 导师: [Enrico Natalizio 教授](https://www.tii.ae/team/prof-enrico-natalizio), [Pascal Moyal 教授](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/)
 <br />[博士课题](https://docnum.univ-lorraine.fr/public/DDOC_T_2024_0054_SU.pdf)：面向服务的物联网中的信任管理 
 
-- 工程师学位, _2020年6月_, [法国ENSEM工程师学院](https://ensem.univ-lorraine.fr/), 法国洛林大学
-<br /> 数字化系统	
+- 工程师学位, _2020年6月_,
+<br /> [法国ENSEM工程师学院](https://ensem.univ-lorraine.fr/), 法国洛林大学
+<br /> 数字化系统
+<br /> 工程师课题：时敏网络TSN(Time Sensitive Networking)的仿真和实验	
 
-- 硕士, _2020年6月_, 法国洛林大学，计算机系  	
+- 硕士, _2020年6月_,
+<br /> 法国洛林大学，计算机系  	
 <br /> 信息与系统安全，工程师学位双文凭
+<br /> 硕士课题：软件ding'yi'wang'luo信息
+- 姓名：苏润博         
+- 性别：男
+- 籍贯：重庆市沙坪坝区
+- 出生年月日：1995年7月21日
+- 邮箱：[runbo.su@inria.fr](mailto:runbo.su@inria.fr)
+- 电话：18696649555
+- 当前博士后在读 @ [Resist](https://team.inria.fr/resist/)组 (_2024年9月至今_)
+<br /> 法国 [Inria计算机及自动化研究所](https://www.inria.fr/fr/centre-inria-universite-lorraine)，[Loria计算机研究所](https://www.loria.fr/fr/), [洛林大学](https://www.univ-lorraine.fr/)
+<br /> 导师: [宋叶琼教授](https://members.loria.fr/YQSong/), [Abdelkader Lahmadi副教授](https://members.loria.fr/ALahmadi/)
+<br />博士后课题：基于[多吊舱运输系统](https://urbanloop.fr/en/)智能交通系统的5G部署、通信质量的评估和优化。
+
+## 教育背景
+- 计算机博士, _2024年7月_, @ [Simbiot](https://simbiot.gitlabpages.inria.fr/web/index.html)组, Loria 计算机研究所，[IECL数学研究所](https://iecl.univ-lorraine.fr/), [洛林大学](https://www.univ-lorraine.fr/)
+<br /> 导师: [Enrico Natalizio 教授](https://www.tii.ae/team/prof-enrico-natalizio), [Pascal Moyal 教授](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/)
+<br />[博士课题](https://docnum.univ-lorraine.fr/public/DDOC_T_2024_0054_SU.pdf)：面向服务的物联网中的信任管理 
+
+- 工程师学位, _2020年6月_,
+<br /> [法国ENSEM工程师学院](https://ensem.univ-lorraine.fr/), 法国洛林大学
+<br /> 数字化系统
+<br /> 工程师课题：时敏网络TSN(Time Sensitive Networking)的仿真和实验	
+
+- 硕士, _2020年6月_,
+<br /> 法国洛林大学，计算机系  	
+<br /> 信息与系统安全，工程师学位双文凭
+<br /> 硕士课题：通过软件定义网络(Software-Defined Networking)的延迟服务质量控制研究
 
 ## 主要研究方向
 我的研究方向主要研究方向是网络物理系统（CPS）的性能及可靠性研究。目前，集中在两个子方向：
