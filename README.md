@@ -19,16 +19,16 @@
 - 工程师学位, _2020年6月_,
 <br /> [法国ENSEM工程师学院](https://ensem.univ-lorraine.fr/), 法国洛林大学
 <br /> 数字化系统专业
-<br /> 导师: [宋叶琼教授](https://members.loria.fr/YQSong/)
+<br /> 导师: 宋叶琼教授
 <br /> 工程师课题：时敏网络的仿真和实验
 <br /> 论文题目： [Simulation and experimentation of TSN networks](/report/ingineer_report.pdf)	
 
 - 硕士, _2020年6月_,
 <br /> 法国洛林大学，计算机系  	
 <br /> 信息与系统安全专业，工程师学位双文凭
-<br /> 导师: [宋叶琼教授](https://members.loria.fr/YQSong/)
+<br /> 导师: 宋叶琼教授
 <br /> 硕士课题：通过软件定义网络进行网络服务质量管理管理：以延迟为重点的研究
-<br /> 论文题目： [Network QoS management using SDN: a delay focused study]((/report/master_report.pdf))
+<br /> 论文题目： [Network QoS management using SDN: a delay focused study](/report/master_report.pdf)
 
 ## 主要研究方向
 我的研究方向主要研究方向是网络物理系统（CPS）的性能及可靠性研究。目前，集中在两个子方向：
