@@ -120,20 +120,20 @@
 
 ## 学生指导经验
 - [Lijie Yang](https://derrickylj.github.io/),   Carnegie Mellon University (CMU) 本科生，2022年7月-2024年4月，和 宋叶琼教授, Théo Docquier博士，[Ludovic Thomas博士](https://members.loria.fr/LThomas/)共同指导
-<br />课题: 最坏延迟分析：基于仿真的Flow Aggregation 与 CPA 比较研究，[报告](https://www.researchgate.net/profile/Lijie-Yang-11/publication/368810541_Worst-case_delay_analysis_a_simulation-based_comparison_between_Flow_Aggregation_and_CPA/links/63fa6ea30cf1030a564ff6a4/Worst-case-delay-analysis-a-simulation-based-comparison-between-Flow-Aggregation-and-CPA.pdf)（Worst-case delay analysis: a simulation-based comparison between Flow Aggregation and CPA）
+<br />课题: 最坏延迟分析：基于仿真的Flow Aggregation 与 CPA 比较研究，[报告: ](https://www.researchgate.net/profile/Lijie-Yang-11/publication/368810541_Worst-case_delay_analysis_a_simulation-based_comparison_between_Flow_Aggregation_and_CPA/links/63fa6ea30cf1030a564ff6a4/Worst-case-delay-analysis-a-simulation-based-comparison-between-Flow-Aggregation-and-CPA.pdf)（Worst-case delay analysis: a simulation-based comparison between Flow Aggregation and CPA）
 
 - [Florian Richard](https://www.linkedin.com/in/florian-richard-6bb932233/edit/forms/next-action/after-connect-update-profile/)， ENSEM工程师学院学生，Loria计算机研究所实习生，2023年10月-2024年2月，和 宋叶琼教授共同指导
-<br />课题: 基于Python的“幽灵车”攻击及其影响的仿真，[报告](/report/report_4.pdf)（Study of the impact of the ”Ghost Vehicle” attack on a vehicular network simulator）
+<br />课题: 基于Python的“幽灵车”攻击及其影响的仿真，[报告: ](/report/report_4.pdf)（Study of the impact of the ”Ghost Vehicle” attack on a vehicular network simulator）
 
 - Yujun Jin， ENSEM工程师学院学生，Loria计算机研究所实习生，<br />2021年3月-2023年6月，和 宋叶琼教授共同指导
-<br />课题: 车辆网行人管理的仿真及相关V2X通信的应用，[报告](/report/report_3.pdf)（Simulation of trust management in VANET (Vehicular Ad-hoc NETwork) by using V2X (Vehicle-to-Everything) messages)
+<br />课题: 车辆网行人管理的仿真及相关V2X通信的应用，[报告: ](/report/report_3.pdf)（Simulation of trust management in VANET (Vehicular Ad-hoc NETwork) by using V2X (Vehicle-to-Everything) messages)
 
 - Fadwa Mouhdi，洛林大学数学系硕士生，<br />2022年1月-2022年4月，和 Pascal Moyal 教授共同指导
-<br />课题: 物联网信任管理的博弈论建模，[报告](/report/report_2.pdf)（Modelling the trust in IoT by applying Game Theory）
+<br />课题: 物联网信任管理的博弈论建模，[报告: ](/report/report_2.pdf)（Modelling the trust in IoT by applying Game Theory）
 
 - Justinien Hennechart，ENSEM 工程师学院学生，
 <br />2021年10月-2022年2月，和 宋叶琼教授共同指导
-<br />课题: 车联网信任管理的仿真和实验，[报告](/report/report_1.pdf)（Simulation and Experimentation of Trust Management in VANET）
+<br />课题: 车联网信任管理的仿真和实验，[报告: ](/report/report_1.pdf)（Simulation and Experimentation of Trust Management in VANET）
 
 
 
