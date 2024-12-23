@@ -4,13 +4,14 @@
 - 出生年月日：1995年7月21日
 - 邮箱：[runbo.su@inria.fr](mailto:runbo.su@inria.fr)
 - 电话：18696649555
-- 当前博士后在读 @ [Resist](https://team.inria.fr/resist/)组 (_2024年9月至今_)
+- 当前博士后在读 @ [Resist](https://team.inria.fr/resist/)组, _2024年9月至今_
 <br /> 法国 [Inria计算机及自动化研究所](https://www.inria.fr/fr/centre-inria-universite-lorraine)，[Loria计算机研究所](https://www.loria.fr/fr/), [洛林大学](https://www.univ-lorraine.fr/)
 <br /> 导师: [宋叶琼教授](https://members.loria.fr/YQSong/), [Abdelkader Lahmadi副教授](https://members.loria.fr/ALahmadi/)
 <br />博士后课题：基于[多吊舱运输系统](https://urbanloop.fr/en/)智能交通系统的5G部署、通信质量的评估和优化。
 
 ## 教育背景
-- 计算机博士, _2024年7月_, @ [Simbiot](https://simbiot.gitlabpages.inria.fr/web/index.html)组, Loria 计算机研究所，[IECL数学研究所](https://iecl.univ-lorraine.fr/), [洛林大学](https://www.univ-lorraine.fr/)
+- 计算机博士, @ [Simbiot](https://simbiot.gitlabpages.inria.fr/web/index.html)组, _2024年7月_
+<br /> Loria 计算机研究所，[IECL数学研究所](https://iecl.univ-lorraine.fr/), [洛林大学](https://www.univ-lorraine.fr/)
 <br /> 导师: [Enrico Natalizio 教授](https://www.tii.ae/team/prof-enrico-natalizio), [Pascal Moyal 教授](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/)
 <br />博士课题：面向服务的物联网中的信任管理
 <br />论文题目： [Trust Management in Service-Oriented Internet of Things (SO-IoT)](/report/thesis_en.pdf)
