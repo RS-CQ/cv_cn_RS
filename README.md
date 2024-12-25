@@ -55,7 +55,7 @@
 
 - [2]Su, Runbo, et al. “Ensuring trustworthiness in ioit/aiot: A phase-based approach.” [IEEE IoT Magazine](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine), 5(2), 84-88. [DOI](https://doi.org/10.1109/IOTM.001.2100190)
 
-- [3] Su, Runbo, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, and Ye-Qiong Song . “A Game Theoretical Model addressing Misbehavior in Crowdsourcing IoT.” In [2023 20th IEEE SECON](https://secon2023.ieee-secon.org/) (pp. 195-203). 2023年9月11-14日，西班牙马德里, IEEE SECON(International Conference on Sensing, Communication, and Networking) IEEE国际电气和电子工程师学会传感、通信和网络年会. [DOI](https://dl.acm.org/doi/abs/10.5555/3639940.3639978), [pdf](https://hal.science/hal-04161463v1/file/EWSN23_WIP.pdf)
+- [3] Su, Runbo, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, and Ye-Qiong Song . “A Game Theoretical Model addressing Misbehavior in Crowdsourcing IoT.” In [2023 20th IEEE SECON](https://secon2023.ieee-secon.org/) (pp. 195-203). 2023年9月11-14日，西班牙马德里, IEEE SECON(International Conference on Sensing, Communication, and Networking) IEEE国际电气和电子工程师学会传感、通信和网络年会. [DOI](https://doi.org/10.1109/SECON58729.2023.10287527), [pdf](https://hal.science/hal-04161463v1/file/EWSN23_WIP.pdf)
  
 - [4] Su, Runbo, & Saint-Jore, Amaury. “A Role-based Trust Model assessing IoA services: First Results on Real MAS Implementation by using ROS 2.” In [2023 EWSN](https://events.dimes.unical.it/ewsn2023/) (pp. 293-296). 2023年9月25-27日，意大利伦代, EWSN(International Conference on Embedded Wireless Systems and Networks) ACM国际嵌入式无线系统和网络会议. [DOI](https://dl.acm.org/doi/abs/10.5555/3639940.3639978), [pdf](https://hal.science/hal-04161463v1/file/EWSN23_WIP.pdf)
  
