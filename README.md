@@ -103,8 +103,8 @@
 - IEEE member, _2022年至今_
 - Elsevier Computer Networks Journal，Q1(JCR), SCI，审稿人  _2022年至今_
 - Elsevier Internet of Things Journal，Q1(JCR), SCI，审稿人 _2024年至今_
-- 2025 ICCCN, TPC member
-- 2025 RESSI, TPC member
+- 2025 ICCCN, [TPC member](http://icccn.org/ICCCN25/committeesandtracks/technical-tracks/track3.html)
+- 2025 RESSI, [TPC member](https://ressi2025.sciencesconf.org/resource/page/id/8)
 
 
 
