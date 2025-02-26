@@ -43,13 +43,13 @@
 
 | 编号| 一作 | 刊/会等级  | 出版社 |
 | ------------- | ------------- | ------------- | ------------- |
-| 1| √  | Q1(JCR), SCI  | Elsevier |
-| 2 | √  | -  | IEEE  |
-| 3 | √  | A,A,B (GSS) | IEEE  |
-| 4 | √  | A+,B,B (GSS)  | ACM  |
-| 5 | √  | C(Core)  | Scitepress  |
-| 6 | √  | A-,B,B (GSS) | IEEE  |
-| 7 | √  | B,B (GSS) | IEEE  |
+| [1]| √  | Q1(JCR), SCI  | Elsevier |
+| [2] | √  | -  | IEEE  |
+| [3] | √  | A,A,B (GSS) | IEEE  |
+| [4] | √  | A+,B,B (GSS)  | ACM  |
+| [5] | √  | C(Core)  | Scitepress  |
+| [6]| √  | A-,B,B (GSS) | IEEE  |
+| [7] | √  | B,B (GSS) | IEEE  |
 
 - [1] Su, Runbo, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, and Ye-Qiong Song. “Assessing intra-and inter-community trustworthiness in IoT: A role-based attack-resilient dynamic trust management model.” [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things) 26 (2024): 101213 (SCI：Q1，JIF: 17/119；中科院大类三区). [DOI](https://doi.org/10.1016/j.iot.2024.101213)
 
